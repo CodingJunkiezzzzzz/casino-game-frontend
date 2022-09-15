@@ -1,0 +1,1 @@
+Open index.html with your browser, dont upload admin file in the server or any online servers.
